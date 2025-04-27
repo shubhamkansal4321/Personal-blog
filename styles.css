@@ -103,7 +103,7 @@
     position: relative;
   }
   
-  .logo::after {
+  /* .logo::after {
     content: '';
     position: absolute;
     bottom: -5px;
@@ -112,7 +112,7 @@
     height: 3px;
     background-color: var(--primary-color);
     border-radius: 5px;
-  }
+  } */
   
   nav ul {
     display: flex;
@@ -3389,6 +3389,12 @@
     --header-height: 80px;
     --footer-bg: #1e293b;
   }
+
+
+
+  
+
+  
 
 
 
